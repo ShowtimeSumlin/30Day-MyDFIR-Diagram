@@ -1,4 +1,4 @@
-# MyDFIR-Diagram
+# MyDFIR-SOC-Diagram
 
 ## Objective
 
