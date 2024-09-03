@@ -27,7 +27,6 @@ This project provides a diagram created with draw.io to visually represent the r
 -Attention to Detail: Learn to pay attention to small details to ensure the accuracy and clarity of the diagram.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 
 -draw.io: Primary tool for creating the SOC Analyst diagram, offering a user-friendly interface and a wide range of shapes, icons, and templates suitable for illustrating complex workflows and processes.
